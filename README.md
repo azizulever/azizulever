@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, This is Azizul & here's my code journey...<br><br>
+<b>Hello, This is Azizul & here's my code journey...</b><br><br>
 
 
 ## 🌐 Socials:
