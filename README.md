@@ -1,5 +1,5 @@
 # About Me:
-<h1> Hello, This is Azizul & here's my code journey...<h1/></b><br><br>
+<h1> Hello, This is Azizul & here's my code journey...<h1/></b><br>
 
 
 # Socials:
