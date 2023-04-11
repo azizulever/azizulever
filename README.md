@@ -1,5 +1,8 @@
 # About Me:
 <h1> Hi there!, This is Azizul & here's my code journey...<h1/></b>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi there!%2C+This+is+Azizul+&+here's+my+code+journey" alt="Typing Animation">
+</p>
 
 
 # Socials:
