@@ -8,10 +8,11 @@
   
 <h3 align="left">My Handles:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/azizul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/azizul_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/contact_azizuli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/contact_azizuli1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/azizulislam22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azizulislam22/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009708370819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009708370819" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/azizul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Handle" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/contact_azizuli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank Handle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/azizulislam22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Account" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009708370819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Account" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@PlusPlus_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Channel" height="30" width="40" /></a>
 </p>
 
 # Socials:
