@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi there! This is Azizul..." alt="Typing Animation">
 </p>
 
-<p align="center"
 # GitHub Stats:
-</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=azizulever&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" /> <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulever&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> <br><br>
   
