@@ -3,8 +3,13 @@
 </p>
 
 # GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=azizulever&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" /> <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulever&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> <br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azizulever&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=azizulever&theme=dark&hide_border=false" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulever&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
   
 <h3 align="left">Handles:</h3>
 <p align="left">
