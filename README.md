@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me  
 - 🚀 **Flutter Developer** | Passionate about **beautiful & scalable** mobile apps.  
-- 🎨 Love crafting **intuitive UI/UX** with **clean design & animations**.  
+- 🎨 Love crafting **intuitive UI/UX** with **clean design**.  
 - 🔍 Always curious about **new technologies & best practices**.  
 - 📚 Currently exploring **Advanced Flutter, State Management, Advanced API, DSA, and Software Engineering Core Concepts**.  
 
@@ -16,18 +16,32 @@
 
 ### 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,figma,github,git" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,github,git" />
 </p>
 
 ---
-
+ 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizulever&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=azizulever&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulever&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=azizulever&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulever&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=azizulever&theme=dark&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ---
