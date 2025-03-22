@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Azizul Islam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=00C7FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Passionate+about+Clean+UI/UX;Lifelong+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=00C7FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;Passionate+about+Clean+UI/UX;Lifelong+Learner" alt="Typing Animation" />
 </p>
 
 ---
