@@ -16,7 +16,7 @@
 
 ### 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,github,git" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,github,git,vscode" />
 </p>
 
 ---
