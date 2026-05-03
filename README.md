@@ -1,60 +1,63 @@
 <div align="center">
 
-<!-- Hero Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Azizul+Islam;Design-Driven+Code;Flutter+Specialist" alt="Typing Animation" />
+<!-- Minimalist Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=34&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=AZIZUL+ISLAM;DESIGNING+LOGIC;CODING+AESTHETICS" alt="Azizul Islam" />
 
 <p align="center">
-  <strong>Crafting pixel-perfect mobile experiences with Flutter & Dart.</strong>
+  <strong>B.Sc. in Computer Science & Engineering</strong>
 </p>
 
-<!-- Social Badges -->
+<!-- Subtle Action Row -->
 <p align="center">
-<a href="https://linkedin.com/in/azizulever"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:contact.azizulislam@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/azizulever"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=dribbble&logoColor=white" /></a>
-</p>
-
----
-
-### ⚡ At a Glance
-*   **Current:** UI/UX Designer at **SoftFlames Ventures**
-*   **Education:** B.Sc. in **Computer Science & Engineering** (SMUCT)
-*   **Highlight:** **ICPC Regionalist** & GDG Campus Ambassador
-
----
-
-### 🛠️ The Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,github,git,vscode,postman,javascript,html,css" />
+  <a href="https://linkedin.com/in/azizulever"><b>LinkedIn</b></a> &nbsp;&bull;&nbsp; 
+  <a href="mailto:contact.azizulislam@gmail.com"><b>Email</b></a> &nbsp;&bull;&nbsp; 
+  <a href="https://azizulislam.com"><b>Portfolio</b></a>
 </p>
 
 ---
 
-### 🧪 Engineering Philosophy
-> "I build applications where the architecture is as clean as the interface."
+### ✦ The Core Focus
+*Blending the precision of CSE with the intuition of UI/UX.*
 
-*   **Logic:** Clean Architecture, Riverpod, REST API Integration[cite: 1]
-*   **Design:** Auto-layout, Design Systems, Component Libraries[cite: 1]
-*   **Impact:** Developed **FuelBhai** (Vehicle Management) & E-commerce solutions[cite: 1]
+**UI/UX ARCHITECTURE**
+`Figma` • `Design Systems` • `Auto-layout` • `User-Centric Workflows`
+
+**FLUTTER ENGINEERING**
+`Dart` • `Riverpod` • `Clean Architecture` • `REST API` • `Firebase`
 
 ---
 
-### 📈 Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizulever&show_icons=true&theme=transparent&hide_border=true&title_color=00C7FF&text_color=ffffff&icon_color=00C7FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulever&layout=compact&theme=transparent&hide_border=true&title_color=00C7FF&text_color=ffffff" width="44%" />
-</div>
+### ✦ Professional Pulse
+*   Currently crafting experiences as a **UI/UX Designer** at **SoftFlames Ventures**.
+*   Background in **Computer Science & Engineering** (SMUCT).
+*   Recognized as an **ICPC Regionalist** and former **GDG Campus Ambassador**.[cite: 1]
 
-<br />
+---
+
+### ✦ Technical Fluency
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,vscode,postman,js" />
+</p>
+<br/>
+
+---
+
+### ✦ Contribution Dynamics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizulever&theme=transparent&hide_border=true&stroke=00C7FF&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azizulever&show_icons=true&theme=transparent&hide_border=true&title_color=00C7FF&text_color=888888&icon_color=00C7FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulever&layout=compact&theme=transparent&hide_border=true&title_color=00C7FF&text_color=888888" width="43%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizulever&theme=transparent&hide_border=true&stroke=00C7FF&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF&currStreakNum=ffffff" width="90%" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <kbd>SHIFT</kbd> + <kbd>DEVELOP</kbd>
 </p>
 
 </div>
