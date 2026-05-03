@@ -1,53 +1,52 @@
 <div align="center">
 
-<!-- Minimalist Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=34&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=AZIZUL+ISLAM;DESIGNING+LOGIC;CODING+AESTHETICS" alt="Azizul Islam" />
+<!-- Header Section -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=AZIZUL+ISLAM;FLUTTER+ENGINEER;UI%2FUX+DESIGNER" alt="Azizul Islam" />
 
 <p align="center">
   <strong>B.Sc. in Computer Science & Engineering</strong>
 </p>
 
-<!-- Subtle Action Row -->
-<p align="center">
-  <a href="https://linkedin.com/in/azizulever"><b>LinkedIn</b></a> &nbsp;&bull;&nbsp; 
-  <a href="mailto:contact.azizulislam@gmail.com"><b>Email</b></a> &nbsp;&bull;&nbsp; 
-  <a href="https://azizulislam.com"><b>Portfolio</b></a>
-</p>
+---
+
+### 🌐 Professional Ecosystem
+*A synergy of clean architecture and user-centric design.*
+
+| **Engineering** | **Design** |
+| :--- | :--- |
+| **Flutter & Dart** Development | **UI/UX Strategy** & Research |
+| **State Management** (Riverpod, GetX) | **Design Systems** & Component Libraries |
+| **Backend Integration** (Firebase, REST APIs) | **Prototyping** & High-Fidelity Wireframes |
+| **Clean Architecture** & OOP Principles | **Responsive Design** & Auto-layout |
 
 ---
 
-### ✦ The Core Focus
-*Blending the precision of CSE with the intuition of UI/UX.*
+### 🚀 Professional Milestones
 
-**UI/UX ARCHITECTURE**
-`Figma` • `Design Systems` • `Auto-layout` • `User-Centric Workflows`
-
-**FLUTTER ENGINEERING**
-`Dart` • `Riverpod` • `Clean Architecture` • `REST API` • `Firebase`
-
----
-
-### ✦ Professional Pulse
-*   Currently crafting experiences as a **UI/UX Designer** at **SoftFlames Ventures**.
-*   Background in **Computer Science & Engineering** (SMUCT).
-*   Recognized as an **ICPC Regionalist** and former **GDG Campus Ambassador**.[cite: 1]
+**Current Role** &nbsp; | &nbsp; UI/UX & Frontend Developer at **SoftFlames Ventures**
+<br/>
+**Engineering Foundation** &nbsp; | &nbsp; Graduate of **Shanto-Mariam University of Creative Technology**
+<br/>
+**Competitive Excellence** &nbsp; | &nbsp; **ICPC Dhaka Regionalist** & GDG Campus Ambassador
+<br/>
+**Impact** &nbsp; | &nbsp; Developed **FuelBhai** & E-commerce solutions
 
 ---
 
-### ✦ Technical Fluency
+### 🛠️ Technical Fluency
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,vscode,postman,js" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,github,git,vscode,postman,js,html,css" />
 </p>
 <br/>
 
 ---
 
-### ✦ Contribution Dynamics
+### 📊 Engineering Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizulever&show_icons=true&theme=transparent&hide_border=true&title_color=00C7FF&text_color=888888&icon_color=00C7FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulever&layout=compact&theme=transparent&hide_border=true&title_color=00C7FF&text_color=888888" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azizulever&show_icons=true&theme=transparent&hide_border=true&title_color=00C7FF&text_color=ffffff&icon_color=00C7FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulever&layout=compact&theme=transparent&hide_border=true&title_color=00C7FF&text_color=ffffff" width="44%" />
 </div>
 
 <div align="center">
@@ -57,7 +56,9 @@
 ---
 
 <p align="center">
-  <kbd>SHIFT</kbd> + <kbd>DEVELOP</kbd>
+<a href="https://linkedin.com/in/azizulever"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:contact.azizulislam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://azizulislam.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
 </div>
