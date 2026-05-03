@@ -29,13 +29,7 @@
   <a href="mailto:contact.azizulislam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://azizulislam.github.io">
+  <a href="https://azizulever.me/">
     <img src="https://img.shields.io/badge/Portfolio-00C7FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
-
-<br />
-
-<p align="center">
-  <b>azizulislam.github.io</b>
-</p>
